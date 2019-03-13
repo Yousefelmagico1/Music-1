@@ -1,0 +1,6 @@
+owner=550396416556662806
+prefix=1
+game=1play|Elmagico
+stayinchannel=true
+songinstatus=false
+token=NTU1MzYyMTIzMzY3MTg2NDMz.D2qE0Q.V4iuWqZ5hGD3WpMWfpo99As3iYs
